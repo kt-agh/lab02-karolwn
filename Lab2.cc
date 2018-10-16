@@ -13,7 +13,7 @@ int main()
   int variable_2 = 7;
   int sum = variable_1 + variable_2;
   
-  cout << "Wynik Dodawania Dwóch Liczb To: "<< sum << endl;
+  cout << "Wynik Dodawania Dwóch Liczb To: " << sum << endl;
   // Wypisuje wynik dzialania
   
   return 0;
